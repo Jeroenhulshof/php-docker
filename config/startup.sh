@@ -7,4 +7,5 @@ php-fpm -D
 echo "Starting NGINX"
 nginx
 
-# npm i && npm run dev
+echo "Running NPM I && dev"
+npm i && npm run dev
