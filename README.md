@@ -2,4 +2,4 @@
 
 Repository for creating PHP applications inside Docker. 
 
-Installs: `nginx` `php:8.2-fpm` `npm:latest` `composer:latest`
+Installs: `nginx` `php:8.2-fpm` `npm:latest` `composer:latest`, `Redis`
